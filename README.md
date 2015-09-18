@@ -5,4 +5,7 @@
  mImageLoader.displayImage("https://avatars2.githubusercontent.com/u/7509376?v=3&s=460", imageview, true);
  
  实例效果图：
+ 
+ 
+ 
  ![image](https://github.com/jczmdeveloper/XCImageLoader/blob/master/screenshots/01.png)
