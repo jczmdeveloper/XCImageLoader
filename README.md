@@ -7,5 +7,7 @@
  实例效果图：
  
  
+ ![image](https://github.com/jczmdeveloper/XCImageLoader/blob/master/screenshots/00.gif)
+
  
  ![image](https://github.com/jczmdeveloper/XCImageLoader/blob/master/screenshots/01.png)
